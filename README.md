@@ -2,10 +2,21 @@
 <p align="center">
   🎓 Undergraduate in Information Technology <br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
+   
   📫 heshandeeptha13@gmail.com
+  
 </p>
 
 ---
+
+
+## 🚀 Interests
+- Full-Stack Web Development 🌐
+- Mobile App Development 📱
+
+## 🔍 Looking For
+I'm actively looking for **IT-based internship opportunities** where I can apply and grow my skills while contributing to exciting projects.
+
 
 ## 🛠️ My Tech Stack
 
@@ -30,20 +41,13 @@
 ## 📚 Relevant Coursework
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
-- Database Systems  
+- Database Management Systems  
 - Operating Systems  
 - Software Engineering Principles  
 
 ---
 
-## 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Heshan141200&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heshan141200&layout=compact&theme=radical" alt="Top Langs" height="180"/>
-</p>
-
----
 
 ## 💡 Fun Fact
 > I believe that constant learning and curiosity fuel creativity. Let's build something awesome together! 🚀
