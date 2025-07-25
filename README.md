@@ -3,7 +3,7 @@
   🎓 Undergraduate in Information Technology <br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
   
-  📫 heshandeeptha13@gmail.com
+ <center> 📫 heshandeeptha13@gmail.com</center>
   
 </p>
 
