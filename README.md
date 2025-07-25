@@ -1,16 +1,20 @@
-## Hi there 👋
+ 👋 Hello there! I'm Heshan Jayaweera
 
-<!--
-**Heshan141200/Heshan141200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an enthusiastic **undergraduate student** passionate about building meaningful software solutions that create real-world impact.
 
-Here are some ideas to get you started:
+## 💻 Technologies I Know
+- **Programming Languages:** C, C++, Java, JavaScript  
+- **Currently Learning:** Python 🐍, R 📊, Kotlin 📱
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+- Full-Stack Web Development 🌐  
+- Mobile App Development 📱  
+- Artificial Intelligence & Machine Learning 🤖
+
+## 🔍 Looking For
+I'm actively looking for **IT-based internship opportunities** where I can apply and grow my skills while contributing to exciting projects.
+
+## 🌱 Personal Motto
+> "Learn constantly. Build consistently. Improve endlessly."
+
+
