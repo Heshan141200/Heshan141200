@@ -2,6 +2,7 @@
 <p align="center">
   🎓 Undergraduate in Information Technology <br>
   💻 Aspiring Full-Stack & Mobile App Developer | AI Enthusiast <br>
+  
   📫 heshandeeptha13@gmail.com
   
 </p>
